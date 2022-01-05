@@ -4,7 +4,7 @@ console.log("Hello World !");
 const a = 100;
 console.log("const a = ", a);
 
-// Khai bao bien toan cuc & cuc bo trong code block
+// Khai bao bien cuc bo & toan cuc trong code block
 let b = 10;
 var c = 1;
 
