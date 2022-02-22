@@ -12,4 +12,4 @@ console.log('(int) number = ', number);
 
 // chuyen doi string thanh float
 number = parseFloat("1234.56");
-console.log('(float) number = ', number);
+console.log('(floats) number = ', number);
