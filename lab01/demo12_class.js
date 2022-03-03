@@ -19,10 +19,17 @@ class Parents {
     set Name(value) {
         this.name = value
     }
-    // getType() {
-    //     return 'Parents'
-    // }
+    getType() {
+        return 'Parents'
+    }
 }
+
+const main = () => {
+    let parents = new Parents('NDHuy')
+    console.log(parents);
+}
+
+main()
 
 //// Define child class extend parents class
 // class Child extends Parents {
